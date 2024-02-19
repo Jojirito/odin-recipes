@@ -1,0 +1,16 @@
+
+body {
+    background: linear-gradient(0deg, rgb(49, 164, 216) 0%, rgba(151,123,190,1) 50%, rgba(253,128,45,1) 100%);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.heading {
+    font-family: ;
+    text-align: center;
+}
+
+.recipes-list {
+    display: flex;
+    justify-content: center;
+}
